@@ -5,8 +5,8 @@
   
   <entry>
     <title>hello hexo-github_io</title>
-    <link href="/xushuojie/xushuojie.github.io/blob/main/2024/01/01/hello-hexo-github-io/"/>
-    <url>/xushuojie/xushuojie.github.io/blob/main/2024/01/01/hello-hexo-github-io/</url>
+    <link href="/2024/01/01/hello-hexo-github-io/"/>
+    <url>/2024/01/01/hello-hexo-github-io/</url>
     
     <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>笔记软件由notion转至语雀，原博客挂在notion上，所以现在将博客迁移至github io。</p><img src="/2024/01/01/hello-hexo-github-io/IMG_2022080814_1429_3060.jpg" class="" title="IMG_2022080814_1429_3060">]]></content>
     
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于我</title>
-    <link href="/xushuojie/xushuojie.github.io/blob/main/2023/12/30/about/"/>
-    <url>/xushuojie/xushuojie.github.io/blob/main/2023/12/30/about/</url>
+    <link href="/2023/12/30/about/"/>
+    <url>/2023/12/30/about/</url>
     
     <content type="html"><![CDATA[<h1 id="徐烁杰"><a href="#徐烁杰" class="headerlink" title="徐烁杰"></a>徐烁杰</h1><h2 id="个人优势"><a href="#个人优势" class="headerlink" title="个人优势"></a>个人优势</h2><ul><li>熟悉AIGC大模型的落地应用，了解开源大模型结构（gpt、llama）</li><li>熟悉 Python 和 PyTorch，具备机器学习模型的调优、训练和部署经验</li><li>简单掌握C++、MySQL 和 Linux 服务器部署与维护</li><li>对于 Office 软件，具备 visio 科研绘图和可视化分析的能力</li></ul><h2 id="资格证书"><a href="#资格证书" class="headerlink" title="资格证书"></a>资格证书</h2><ul><li>大学英语六级</li></ul><h2 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h2><ul><li><p><strong>东北师范大学 2022-2025</strong>  </p><ul><li>软件工程 专业硕士</li><li>研究方向：CV注视估计（gaze estimation）</li><li>获得研究生二等奖学金</li></ul></li><li><p><strong>长春理工大学 2018-2022</strong>  </p><ul><li>信息与计算科学 数学专业</li><li>排名前30%</li></ul></li></ul><h2 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h2><ul><li><strong>杭州奥创光年互联网科技有限责任公司 2023.06-2023.09</strong><ul><li>大模型算法实习</li><li>项目内容：<ol><li>基于大型语言模型的调优</li><li>基于大型语言模型的 prompt engineering</li><li>基于 llm 和知识向量库的 ai agent 构建</li></ol></li><li>实习成果：<ul><li>参与完成多个项目的落地</li></ul></li></ul></li></ul><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ul><li><p><strong>基于注视估计的学生课堂注意力评价系统（硕士毕业论文） 2023.4-至今</strong></p><ul><li>硕士毕业论文项目</li><li>项目内容：<ol><li>采用注视估计领域sota模型L2CS的改进</li><li>基于vue搭建可视化界面</li></ol></li><li>项目业绩：<ul><li>相对于现有的sota模型前90°精度提高14%</li></ul></li></ul></li><li><p><strong>基于风格迁移的半监督多尺度视网膜血管分割系统 2023.02-2023.06</strong></p><ul><li>组长</li><li>项目内容：<ol><li>基于顶会论文的代码复现</li><li>基于现有模型结构优化</li><li>模型训练并微调</li><li>模型算法打包，并使用 web 落地</li></ol></li><li>项目业绩：<ol><li>模型性能小幅度提高</li><li>省内人工智能比赛二等奖</li></ol></li></ul></li><li><p><strong>一汽汽车零件检测 2022.12-2023.01</strong></p><ul><li>队员</li><li>项目内容：<ol><li>使用 YOLO 对流水线的汽车零部件进行检测</li><li>控制机械臂对零件抓取</li><li>数据集标注、模型选择、程序速度调优</li></ol></li><li>项目业绩：<ul><li>项目已经上线，投入产线使用</li></ul></li></ul></li></ul>]]></content>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/xushuojie/xushuojie.github.io/blob/main/2023/12/30/hello-world/"/>
-    <url>/xushuojie/xushuojie.github.io/blob/main/2023/12/30/hello-world/</url>
+    <link href="/2023/12/30/hello-world/"/>
+    <url>/2023/12/30/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
